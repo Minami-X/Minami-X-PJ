@@ -7,4 +7,9 @@
 - TBD
 
 ## Design  
-- Aman will write the design on the wiki.
+### Toppage  
+- Aman has devised a prototype as shown in the figure below.  
+![Alt text](image.png)
+
+- We need to place the URL of our site on the top page as a contact point.  
+Code the URL in page.html.  
